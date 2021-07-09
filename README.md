@@ -1,1 +1,1 @@
-# infinite-runner1
+# trex
